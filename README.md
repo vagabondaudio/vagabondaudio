@@ -1,6 +1,7 @@
 # Contributing
 
 ## Images
+<img src="https://github.com/vagabondaudio/vagabondaudio/blob/2342b9a89f0cfc10fbe6303982e2234744044217/header.png?raw=true">
 
 -   Find an image that is as close as possible to a perfect top-down angle.
     -   You can make it perfectly top-down/rectangular using GIMP perspective tool.
@@ -44,3 +45,4 @@ If there is a pedal you're looking for, feel free to log an issue. Please follow
 -   Include a decent resolution image of the pedal (top-down view, white background)
 -   Include the dimensions, in inches (make sure the dimensions are accurate and include jacks and other protrusions)
 -   Post one issue for each pedal you're requesting
+
