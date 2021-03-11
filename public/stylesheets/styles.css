@@ -86,7 +86,8 @@ figure {
   margin: 1em 40px; }
 
 hr {
-  box-sizing: content-box;
+  box-sizing: 
+    -box;
   height: 0; }
 
 pre {
@@ -7053,7 +7054,7 @@ body {
       width: 64px;
       height: 64px;
       background: #8582ff;
-      float: right;
+      light: 50%;
       margin-left: -32px;
       bottom: 30px;
       z-index: 4;
