@@ -1,6 +1,6 @@
 [
 	{
-		"Brand": "Xotic",
+		"Brand": "Xotic Effects",
 		"Name": "SL Drive",
 		"Width": 1.9,
 		"Height": 3.5,
@@ -35,28 +35,28 @@
 		"Image": "cornerstone-gladio.png"
 	},
 	{
-		"Brand": "Cooper",
+		"Brand": "Cooper FX",
 		"Name": "Moment Machine",
 		"Width": 5.7,
 		"Height": 4.84,
 		"Image": "cooper-momentmachine.png"
 	},
 	{
-		"Brand": "Cooper",
+		"Brand": "Cooper FX",
 		"Name": "Arcades",
 		"Width": 3.7,
 		"Height": 4.85,
 		"Image": "cooper-arcades.png"
 	},
 	{
-		"Brand": "Cooper",
+		"Brand": "Cooper FX",
 		"Name": "Outward",
 		"Width": 3.7,
 		"Height": 4.85,
 		"Image": "cooper-outward.png"
 	},
 	{
-		"Brand": "Cooper",
+		"Brand": "Cooper FX",
 		"Name": "Generation Loss",
 		"Width": 3.7,
 		"Height": 4.85,
@@ -70,7 +70,7 @@
 		"Image": "black-knob.png"
 	},
 	{
-		"Brand": "Xotic",
+		"Brand": "Xotic Effects",
 		"Name": "SL Drive - LE Red",
 		"Width": 1.9,
 		"Height": 3.5,
@@ -84,35 +84,35 @@
 		"Image": "boomerang-III-phrase-sampler.png"
 	},
 	{
-		"Brand": "Thorpy",
+		"Brand": "Thorpy FX",
 		"Name": "The Dane",
 		"Width": 3.94,
 		"Height": 4.92,
 		"Image": "thorpyfx-thedane.png"
 	},
 	{
-		"Brand": "Thorpy",
+		"Brand": "Thorpy FX",
 		"Name": "Fallout Cloud V2",
 		"Width": 2.56,
 		"Height": 4.92,
 		"Image": "thorpyfx-fallout-cloud-v2.png"
 	},
 	{
-		"Brand": "Thorpy",
+		"Brand": "Thorpy FX",
 		"Name": "The Veteran",
 		"Width": 3.94,
 		"Height": 4.92,
 		"Image": "thorpyfx-theveteran.png"
 	},
 	{
-		"Brand": "Walrus",
+		"Brand": "Walrus Audio",
 		"Name": "SLO",
 		"Width": 2.6,
 		"Height": 4.77,
 		"Image": "walrus-slo.png"
 	},
 	{
-		"Brand": "Walrus",
+		"Brand": "Walrus Audio",
 		"Name": "Iron Horse V2",
 		"Width": 2.9,
 		"Height": 4.77,
@@ -231,7 +231,7 @@
 		"Image": "anasounds-bitounfuzz.png"
 	},
 	{
-		"Brand": "Walrus",
+		"Brand": "Walrus Audio",
 		"Name": "Fathom",
 		"Width": 2.6,
 		"Height": 4.77,
@@ -280,13 +280,6 @@
 		"Image": "rolls-mx28.png"
 	},
 	{
-		"Brand": "BOSS",
-		"Name": "EV-5",
-		"Width": 3.4375,
-		"Height": 7.875,
-		"Image": "boss-ev5.png"
-	},
-	{
 		"Brand": "Jam Pedals",
 		"Name": "Rattler",
 		"Width": 2.7,
@@ -308,7 +301,7 @@
 		"Image": "jampedals-ripplyfall1.png"
 	},
 	{
-		"Brand": "BOSS",
+		"Brand": "Boss",
 		"Name": "RC-10R Rhythm Loop Station",
 		"Width": 4,
 		"Height": 5.4375,
@@ -396,25 +389,74 @@
 		"Name": "DRV",
 		"Width": 3.52,
 		"Height": 4.3,
-		"Image": "1981-inventions.png"
+		"Image": "1981-inventions-drv.png"
 	},
 	{
 		"Brand": "1981 Inventions",
-		"Name": "DRV Hyperfade",
+		"Name": "DRV - "Stranger Things",
 		"Width": 3.52,
 		"Height": 4.3,
-		"Image": "drv-hyperfade.png"
+		"Image": "1981-inventions-drv-stranger-things.png"
 	},
 	{
 		"Brand": "1981 Inventions",
-		"Name": "DRV Blackout",
+		"Name": "DRV - Hyperfade",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-hyperfade.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - No. 3 - Black",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-no3-black.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - No. 3 - Black",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-no3-white.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - Grayscale",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-grayscale.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - Black/Teal",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-black-teal.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - Stormtrooper",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-stormtrooper.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - Teal/Black",
+		"Width": 3.52,
+		"Height": 4.3,
+		"Image": "1981-inventions-drv-teal-black.png"
+	},
+	{
+		"Brand": "1981 Inventions",
+		"Name": "DRV - Blackout",
 		"Width": 3.52,
 		"Height": 4.3,
 		"Image": "1981-inventions-black.png"
 	},
 	{
 		"Brand": "1981 Inventions",
-		"Name": "DRV Sea Foam Green",
+		"Name": "DRV - Sea Foam Green",
 		"Width": 3.52,
 		"Height": 4.3,
 		"Image": "1981-inventions-sfg.png"
