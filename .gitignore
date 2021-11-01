@@ -11,3 +11,7 @@ config.codekit3
 1_post
 _post
 _pre
+app/images/pedals/.pedals-public.lnk
+public/images/pedals/.pedals-app.lnk
+cmd.lnk
+
