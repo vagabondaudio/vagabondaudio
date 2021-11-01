@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<img src:"https://github.com/vagabondaudio/vagabondaudio/blob/master/favicon-32x32.png?raw=true">
-		
+		<title>Pedal Playground</title>
+
 		<meta charset="utf-8" />
 		<meta
 			name="viewport"
@@ -31,12 +31,24 @@
 	</head>
 
 	<body>
-		<header class="site-header" style="background-color: grey; background-size: 25px;">
-			<img src="https://github.com/vagabondaudio/vagabondaudio/blob/master/PB-Planner-5%20(1).png?raw=true">
+		<header class="site-header">
+			<h1><b>Pedal</b>Playground</h1>
+			<nav>
+				<a href="https://github.com/PedalPlayground/PedalPlayground.github.io/"
+					>Change Log</a
+				>
+				<a href="https://www.paypal.me/travlehman" target="_blank">Donate</a>
+				<a
+					class="hidden-xs"
+					href="https://github.com/PedalPlayground/PedalPlayground.github.io#contributing"
+					target="_blank"
+					>Contribute</a
+				>
+			</nav>
 		</header>
 		<div class="site-body is-slid_">
-			<div class="sidebar" style="background-color: #87AFC730; background-size: 25px;">
-				<a href="" class="sidebar-close" style="background-color: #87AFC730; background-size: 25px;">
+			<div class="sidebar">
+				<a href="" class="sidebar-close">
 					<span class="text">Toggle Sidebar</span>
 					<span class="glyphicon glyphicon-chevron-down"></span>
 				</a>
@@ -46,7 +58,10 @@
 							<h4>Add a Pedalboard</h4>
 							<form id="add-pedalboard">
 								<p><select class="pedalboard-list form-control"></select></p>
-								<button id="add-selected-pedalboard" class="btn btn-primary btn-block" style="background-color: #1569C7; background-size: 25px;">
+								<button
+									id="add-selected-pedalboard"
+									class="btn btn-primary btn-block"
+								>
 									Add Pedalboard
 								</button>
 							</form>
@@ -55,17 +70,8 @@
 							<h4>Add a Pedal</h4>
 							<form id="add-pedal">
 								<p><select class="pedal-list form-control"></select></p>
-								<button id="add-selected-pedal" class="btn btn-primary btn-block" style="background-color: #1569C7; background-size: 25px;">
+								<button id="add-selected-pedal" class="btn btn-primary btn-block">
 									Add Pedal
-								</button>
-							</form>
-						</div>
-						<div class="sidebar__section">
-							<h4>Add a Power Supply</h4>
-							<form id="add-supply">
-								<p><select class="pedal-list form-control"></select></p>
-								<button id="add-selected-pedal" class="btn btn-primary btn-block" style="background-color: #1569C7; background-size: 25px;">
-									Add Power Supply
 								</button>
 							</form>
 						</div>
@@ -90,16 +96,6 @@
 										role="tab"
 										data-toggle="tab"
 										>Pedal</a
-									>
-									
-								</li>
-								<li role="presentation">
-									<a
-										href="#custom-pedal"
-										aria-controls="profile"
-										role="tab"
-										data-toggle="tab"
-										>Riser</a
 									>
 								</li>
 							</ul>
@@ -133,8 +129,7 @@
 											type="submit"
 											name=""
 											value="Add Custom Pedalboard"
-										       style="background-color: #1569C7; background-size: 25px;">
-										
+										/>
 									</form>
 								</div>
 								<div role="tabpanel" class="tab-pane" id="custom-pedal">
@@ -146,7 +141,7 @@
 												type="type"
 												name="custom-pedal-name"
 												value=""
-												placeholder="Pedal-Name"
+												placeholder="Bozz FM-2 Face Melter"
 											/>
 										</div>
 										<div class="form-element left">
@@ -225,19 +220,16 @@
 							>
 								Clear
 							</button>
-							<b> </b><center><b> Want to make your pedalboard build a reality? Click the logo below </b>
-    							<a href="https://www.vagabondaudio.info/">
-							<img src="https://github.com/vagabondaudio/vagabondaudio/blob/master/Vagabond-Audio-Logo.png?raw=true">
-							</center> </div>
+						</div>
 					</div>
 					<!-- sidebar__scroll -->
 				</div>
 				<!-- sidebar__inner -->
 			</div>
 			<!-- sidebar -->
-			<a href="" class="sidebar-open"style="background-color: #1569C7; background-size: 25px;">Toggle Sidebar</a>
-			<div class="canvas" style="background-color: white">
-				<input id="multiplier" type="hidden" value="29"> 
+			<a href="" class="sidebar-open">Toggle Sidebar</a>
+			<div class="canvas">
+				<input id="multiplier" type="hidden" value="29" />
 			</div>
 			<div id="clear-canvas-modal" class="modal fade" tabindex="-1" role="dialog">
 				<div class="modal-dialog" role="document">
